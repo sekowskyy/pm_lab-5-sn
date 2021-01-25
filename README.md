@@ -1,4 +1,4 @@
-# Parametry projektu
+ Parametry projektu
 
 Nazwa: pm-lab-5  
 Autor: Paweł Dąbal (pawel.dabal@wat.edu.pl)  
@@ -13,4 +13,4 @@ Numer albumu: 72533
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+Obwód realizuje kilka funkcji w których zmienną jest temperatura. Czujnik temperatury odczytuje watość o której informacja jest przekazywana bezpośrednio do mikrokontrolera. Na podstawie otrzymanej wartości płytka wykonuje kilka procesów. Temperatura zostaje wyświetlona na wyświetalaczu LCD. Informacja z płytki również wędruje na diodę RGB która zmienia swój kolor od niebieskiego do czerwonego zgodnie ze zmianą temperatury. Silnik został zaprogramowany w taki sposób aby załączał się (przez tranzystor) w przypadku gdy temperatura otoczenia wynosi 40 stopni.
